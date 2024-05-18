@@ -1,4 +1,4 @@
 # DemoBySwasti
 This is my first Git Repository.
 <br>
-Author- Swasti Mishra
+Author- Swasti Mishra (Mushkan)
